@@ -3,7 +3,9 @@
 ![Detoxplain](images/detoxplain_logo.PNG "Our Logo")
 
 ## Description 🤖
-This project provides a text assistant tool that aims to detect toxicity in text, give explanation as to why it is toxic, and detoxify it to suggest an alternative to the user. Thus, a safe social media environment is achieved.
+This project provides a text assistant tool that aims to detect toxicity in text, give explanation as to why it is toxic, and detoxify it to suggest an alternative to the user.
+
+This objective is mainly achieved by conducting a sophisticated NLP-pipeline: By integrating various BERT models (DistilBERT, RoBERTa) with a LLM (gpt-4o-mini) and a explainable AI model (LIME).
 
 ## Visuals 👁
 
@@ -19,7 +21,6 @@ This project provides a text assistant tool that aims to detect toxicity in text
 You may use this assisting tool to assess the toxicity of your text, analyze why it can be deemed as toxic, and have helpful suggestions to an alternative detoxified version of your text.
 
 ## API Keys 🔑
-
 During this project an API key from OpenAI was used. Due to privacy concerns, the key cannot be shared, so please obtain your own key. You could use your own key(s) where it is being mentioned in the notebook as instructed.
 
 ## Credits and Acknowledgment 👾
