@@ -37,6 +37,8 @@ pip install -r requirements.txt
 ## Usage 🤳
 You may use this assisting tool to assess the toxicity of your text, analyze why it can be deemed as toxic, and have helpful suggestions to an alternative detoxified version of your text.
 
+You can run the cells in the notebook (.ipynb) file to experiment with the code on your own using Jupyter Notebook. If your current system does not have enough capabilities (e.g. GPU for training DistilBERT), one could also choose Google Colab. For Colab, using Google Chrome as browser is recommended.
+
 ## API Keys 🔑
 During this project, an API key from OpenAI was used. Due to privacy concerns, the key cannot be shared, so please obtain your own key. You could use your own key(s) where it is being mentioned in the notebook as instructed.
 
