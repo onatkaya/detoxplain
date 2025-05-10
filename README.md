@@ -7,8 +7,9 @@ This project provides a text assistant tool that aims to detect toxicity in text
 
 This objective is mainly achieved by conducting a sophisticated NLP-pipeline:
 - BERT models: fine-tuned DistilBERT, RoBERTa
-- Large Language Model (LLM): OpenAI's gpt-4o-mini
 - Explainable AI (XAI) model: (LIME).
+- Large Language Model (LLM): OpenAI's gpt-4o-mini; while using various prompt engineering techniques.
+
 
 See the visuals below for better understanding.
 
