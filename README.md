@@ -5,7 +5,12 @@
 ## Description 🤖
 This project provides a text assistant tool that aims to detect toxicity in text, give explanation as to why it is toxic, and detoxify it to suggest an alternative to the user.
 
-This objective is mainly achieved by conducting a sophisticated NLP-pipeline: By integrating various BERT models (DistilBERT, RoBERTa) with a LLM (gpt-4o-mini) and a explainable AI model (LIME). See the visuals below for better understanding.
+This objective is mainly achieved by conducting a sophisticated NLP-pipeline:
+- BERT models: fine-tuned DistilBERT, RoBERTa
+- Large Language Model (LLM): OpenAI's gpt-4o-mini
+- Explainable AI (XAI) model: (LIME).
+
+See the visuals below for better understanding.
 
 ## Visuals 👁
 
