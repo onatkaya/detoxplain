@@ -22,6 +22,7 @@ This objective is mainly achieved by conducting a sophisticated NLP-pipeline: By
 ```bash
 git clone https://github.com/onatkaya/detoxplain.git
 
+# create project file
 mkdir detoxplain
 cd detoxplain
 
